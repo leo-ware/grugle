@@ -1,0 +1,54 @@
+
+.search-results-container {
+    margin-left: 175px;
+}
+
+.result {
+    margin: 10px 0;
+    max-width: 600px;
+    font-family: 'arial', sans-serif;
+}
+
+.result p {
+    color: #4d5156;
+    font-size: 14px;
+    font-weight: normal;
+
+    margin: 0;
+    line-height: 22px;
+}
+
+.result-url {
+    text-decoration: none;
+}
+
+.result-url:hover {
+    text-decoration: none;
+}
+
+.result-title {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: lighter;
+    margin: 1vh 0;
+    color: #1A0DAB;
+}
+
+.result-title:hover {
+    text-decoration: underline;
+}
+
+.result-link:hover {
+    text-decoration: none;
+}
+
+.result-desc {
+    line-height: 1.58;
+}
+
+.results-summary {
+    color: #70757a;
+    font-size: 14px;
+    margin: 12px 0 -12px;
+    padding: 0;
+}

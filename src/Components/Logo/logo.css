@@ -1,0 +1,12 @@
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'product sans', 'futura', sans-serif;
+    font-weight: lighter;
+}
+
+.logo > h1 {
+    margin: 4vh 0;
+}

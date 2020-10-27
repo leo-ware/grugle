@@ -1,0 +1,39 @@
+
+.search-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: baseline;
+
+    width: 100vw;
+    padding: 0 162px;
+
+    border-bottom-style: solid;
+    border-bottom-color: lightgray;
+    border-bottom-width: 0.5px;
+}
+
+.search-menu-item {
+    height: 25px;
+    padding: 14px 13px 10px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.search-menu-item-selected {
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
+
+.search-menu-item-title {
+    font-size: 13px;
+}
+
+.search-icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+}

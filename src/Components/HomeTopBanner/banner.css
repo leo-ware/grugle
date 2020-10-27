@@ -1,0 +1,27 @@
+.banner {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 15px 3px;
+}
+
+.banner > div {
+    margin: 0 10px;
+}
+
+.banner-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.banner-shim {
+    flex-grow: 1;
+}
+
+.sign-in-button {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 2px;
+}

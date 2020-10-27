@@ -1,0 +1,22 @@
+
+.apps-menu-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.apps-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.apps-menu-image {
+    width: 22px;
+    height: 22px;
+}
+
+.apps-menu-image-expanded {
+    width: 220px;
+    height: 250px;
+}
