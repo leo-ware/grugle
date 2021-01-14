@@ -1,4 +1,6 @@
 
+Update: just posted on Medium about this, article [here](https://leoware.medium.com/lessons-i-learned-rebuilding-the-google-search-frontend-in-react-2e9f004aa243).
+
 Hi, this is my attempt to rebuild the frontend of google 
 search in React. It's not pixel for pixel, but I think it's 
 pretty close on the stuff I got around to. So, yeah, to check
